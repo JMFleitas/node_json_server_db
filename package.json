@@ -1,0 +1,16 @@
+{
+  "name": "proyecto_json-server",
+  "version": "0.0.1",
+  "description": "Armaremos un pequeño servicio con información del curso",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Fleitas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergi",
+      "apellido": "code",
+      "materias": [
+        {
+          "nombre": "Node Js desde cero"
+        },
+        {
+          "nombre": "React Js desde cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        }
+      ],
+      "id": "e2c9"
+    },
+    {
+      "nombre": "Chelo",
+      "apellido": "Fleitas",
+      "materias": [
+        {
+          "nombre": "HTML5 desde cero"
+        },
+        {
+          "nombre": "CSS3 desde cero"
+        },
+        {
+          "nombre": "SASS desde cero"
+        }
+      ],
+      "id": "50c3"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "a9fd"
+    },
+    {
+      "nombre": "Jonathan",
+      "apellido": "Fleitas",
+      "promedio": 9.5,
+      "id": "d9af"
+    },
+    {
+      "nombre": "Roberto",
+      "apellido": "Gomez Bolaños",
+      "promedio": 6.3,
+      "id": "1cc1"
+    },
+    {
+      "id": "40bf",
+      "nombre": "Camila",
+      "apellido": "García",
+      "promedio": 7.2
+    },
+    {
+      "id": "0732",
+      "nombre": "Jorge",
+      "apellido": "Carmona",
+      "promedio": 4.2
+    },
+    {
+      "id": "e711",
+      "nombre": "Evelin",
+      "apellido": "De Andrea",
+      "promedio": 8.2
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node Js desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "1ab6"
+    },
+    {
+      "nombre": "React Js desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "389e"
+    },
+    {
+      "nombre": "Angular 17 desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "4384"
+    },
+    {
+      "id": "4807",
+      "nombre": "Bootstrap desde cero",
+      "duracion": 3,
+      "dificultad": "Básico"
+    }
+  ]
+}
